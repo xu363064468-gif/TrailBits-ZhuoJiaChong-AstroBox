@@ -2,15 +2,15 @@
   "item": {
     "id": "com.trailbits.flashlightbug",
     "restype": "quick_app",
-    "name": "捉甲虫",
-    "description": "在夜色里的树干上拖动手电，每回合三秒。倒计时结束时照住甲虫，捕虫网就会落下；失手时甲虫会飞走。甲虫逐关加速，首次捉到的种类会收录到图鉴。支持小米手环 10 普通版，单手操作，可离线游玩。美术原图由作者绘制，使用 AI 辅助修改。预览图为游戏画面示意。",
+    "name": "捕虫达人",
+    "description": "夜晚的树干上，甲虫正在四处爬动。拖动手电跟上它，倒计时结束时用光圈照住，捕虫网就会落下！\n抓得越多，甲虫爬得越快。不同的甲虫会随着关卡出现，首次捕获后还能收录进图鉴。试试看你能抓到多少只，能不能遇见黄金独角仙。",
     "preview": [
       "media/01-gameplay.png",
       "media/02-net.png",
       "media/03-collection.png"
     ],
-    "icon": "media/icon.png",
-    "cover": "media/cover.jpg",
+    "icon": "media/exec-f52997e6-1a23-42d7-8698-99e33197f3ae.png",
+    "cover": "media/cover-candidate-1.0.4.jpg",
     "author": [
       {
         "name": "xu363064468",
@@ -21,9 +21,9 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "1.0.4",
-      "file_name": "downloads/TrailBits-ZhuoJiaChong-1.0.4.rpk",
-      "versionCode": 17
+      "version": "1.0.5",
+      "file_name": "downloads/TrailBits-BuChongDaRen-1.0.5.rpk",
+      "versionCode": 18
     }
   },
   "ext": {}
